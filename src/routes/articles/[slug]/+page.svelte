@@ -7,6 +7,7 @@
 <div class="h1 text-2xl text-center">
 	{data.article.title}
 </div>
-<div class="m-4">
+<div class="m-4 text-xl">
 	{@html data.article.content}
+
 </div>
